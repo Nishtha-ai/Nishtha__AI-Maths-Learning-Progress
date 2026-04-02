@@ -1,5 +1,5 @@
-# MIT_18.06_LInear_algebra
-This repository contains my personal learning notes, intuitive explanations, diagrams, and code for linear algebra, inspired by the MIT 18.06 Linear Algebra, Spring 2005 course taught by Gilbert Strang.
-
-⚠️ This is NOT an official MIT repository.
-All content here is written in my own words and does not reproduce MIT course notes, textbooks, or solution manuals verbatim.
+# LEARNING_AI
+I made this repository to track my progress
+I started to learn about AI, so in this repository i add my progress in a week , this contain my handwritten notes, problems and codes. 
+I'm passionate about coding and math, and I'm focused on learning AI from the inside out—not just using existing tools.
+My goal is to be seen as someone who builds and controls AI, not someone who can be replaced by it.
